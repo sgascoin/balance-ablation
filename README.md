@@ -1,1 +1,1 @@
-# balance-ablation
+This repository contains a notebook to analyze glacier ablation in High Mountain Asia. Data from Miles et al. Results for \'Health and sustainability of glaciers in High Mountain Asia\'. (2020) doi:10.5281/zenodo.5119153.
